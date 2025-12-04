@@ -36,9 +36,6 @@ Share files between your **PC and mobile devices** — No internet is required w
 
 ## 🖼️ Screenshots
 
-Replace these placeholder images with real screenshots from your project.  
-Recommended folder: `/screenshots/`
-
 ### Login Page
 <img src="Screenshot/Login.png" height="250"/>
 
