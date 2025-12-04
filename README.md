@@ -52,7 +52,7 @@ pip install flask python-dotenv qrcode pillow
 # --- Hotspot Details ---
 HOTSPOT_SSID=YourHotspotName
 HOTSPOT_PASSWORD=YourHotspotPassword
-HOTSPOT_IP=192.168.137.1
+HOTSPOT_IP=YourHotspotIp
 PORT=8000
 
 # --- Admin Credentials ---
