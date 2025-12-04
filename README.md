@@ -46,16 +46,16 @@ Recommended folder: `/screenshots/`
 ![PC Upload](Screenshot/Server.png)
 
 ### PC Upload
-![PC Upload](Screenshot/PC Dashboard.png)
+![PC Upload](Screenshot/PC_Dashboard.png)
 
 ### Mobile Upload
-![Mobile Upload](Screenshot/Mobile Dashboard.jpg)
+![Mobile Upload](Screenshot/Mobile_Dashboard.jpg)
 
 ### PC Download
-![PC Download](Screenshot/PC Download.png)
+![PC Download](Screenshot/PC_Download.png)
 
 ### Mobile Download
-![Mobile Download](Screenshot/Mobile Download.png)
+![Mobile Download](Screenshot/Mobile_Download.png)
 
 ---
 
